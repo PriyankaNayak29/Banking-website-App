@@ -1,5 +1,5 @@
 # Banking-website-App
-Employee page with MySQL database connection
+Employee page with MySQL database connection, used:-html,css,javascript,python,mysql
 # Banking Application
 ### Project Overview
 >Retail bank management is one of the most widely used application management functions in
